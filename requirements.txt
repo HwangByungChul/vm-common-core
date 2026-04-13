@@ -1,0 +1,17 @@
+# 핵심 의존성
+fastapi>=0.100.0
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+requests>=2.28.0
+
+# 인증
+PyJWT>=2.6.0
+google-auth>=2.0.0
+
+# 스케줄러
+APScheduler>=3.10.0
+
+# 개발/테스트 (선택)
+# pytest>=7.0.0
+# httpx>=0.24.0
